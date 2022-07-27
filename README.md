@@ -11,4 +11,4 @@
 - Github URL: https://github.com/JoeyLiu518/JS-password-generator
 
 ## Screenshot
-- <img src="./Assets/images/Screenshot.png">
+- <img src="./Assets/Screenshot.png">
