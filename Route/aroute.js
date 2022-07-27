@@ -1,7 +1,7 @@
 const route = require('express').Router();
-const { json } = require('express');
+const { json, Router } = require('express');
 const fs = require("fs");
-const uuid = require("uuidv4")
+const { v4: uuidv4 } = require('uuid')
 
 // Created a route that gets the data of user which will then parse into a JSON object
 route.get("/api/notes", (req, res) => {
